@@ -8,4 +8,4 @@ Use GAN net to generate anime face
 
 ### Train Result Show (epochs 120)
 ##### Grayscale
-![](./others/image_epoch_119.png)
+![image](others/image_epoch_119.png)
